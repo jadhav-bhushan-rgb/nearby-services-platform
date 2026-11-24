@@ -1,0 +1,37 @@
+name,category,latitude,longitude,rating,address,phone,description
+Victoria Hospital,hospital,12.9634,77.5738,3.9,"Fort, Bengaluru",+91-80-4000-1101,Large public hospital near the City Market.
+Bowring and Lady Curzon Hospital,hospital,12.9815,77.6046,3.8,"Shivaji Nagar, Bengaluru",+91-80-4000-1102,Government hospital north of the central business district.
+Mallya Hospital,hospital,12.9686,77.5954,4.1,"Vittal Mallya Road, Bengaluru",+91-80-4000-1103,Private hospital beside Cubbon Park.
+St. John's Medical College Hospital,hospital,12.9278,77.6204,4.6,"Koramangala, Bengaluru",+91-80-4000-1104,Teaching hospital on Sarjapur Road.
+Apollo Hospital Bannerghatta,hospital,12.8968,77.5988,4.5,"Bannerghatta Road, Bengaluru",+91-80-4000-1105,Multi-speciality campus on the southern corridor.
+Fortis Hospital Cunningham,hospital,12.9886,77.5942,4.3,"Cunningham Road, Bengaluru",+91-80-4000-1106,Private hospital north of the railway station.
+Cloudnine Hospital Jayanagar,hospital,12.9304,77.5832,4.4,"Jayanagar 3rd Block, Bengaluru",+91-80-4000-1107,Maternity and paediatric hospital.
+Manipal Hospital HAL,hospital,12.9584,77.6488,4.4,"Old Airport Road, Bengaluru",+91-80-4000-1108,Large private hospital toward the east.
+HDFC ATM MG Road,atm,12.9754,77.6067,,"MG Road, Bengaluru",,24-hour ATM beside the metro station.
+SBI ATM Majestic,atm,12.9768,77.5714,,"Kempegowda Bus Station, Bengaluru",,ATM at the city bus terminal.
+ICICI ATM Indiranagar,atm,12.9784,77.6408,,"100 Feet Road, Indiranagar",,ATM on the main shopping stretch.
+Axis ATM Koramangala,atm,12.9349,77.6242,,"5th Block, Koramangala",,ATM near the Forum Mall junction.
+Kotak ATM HSR Layout,atm,12.9121,77.6446,,"27th Main, HSR Layout",,Neighbourhood ATM in HSR.
+SBI ATM Jayanagar,atm,12.9302,77.5836,,"4th Block, Jayanagar",,ATM beside the shopping complex.
+ICICI ATM Malleshwaram,atm,13.0034,77.5708,,"Sampige Road, Malleshwaram",,ATM on the market road.
+HDFC ATM Whitefield,atm,12.9698,77.7499,,Whitefield Main Road,,ATM in the eastern tech corridor.
+UB City,shop,12.9716,77.5958,4.6,"Vittal Mallya Road, Bengaluru",,Luxury retail and dining courtyard.
+Garuda Mall,shop,12.9702,77.6096,4.3,"Magrath Road, Bengaluru",,Central mall just off Brigade Road.
+Commercial Street,shop,12.9823,77.6081,4.2,"Shivaji Nagar, Bengaluru",,Open shopping street for clothes and accessories.
+Forum Mall Koramangala,shop,12.9345,77.6112,4.5,"Hosur Road, Koramangala",,Mall at the southern end of Koramangala.
+Chickpet Market,shop,12.9688,77.5776,4.0,"Chickpet, Bengaluru",,Historic textile and wholesale market.
+Jayanagar 4th Block Complex,shop,12.9298,77.5824,4.1,Jayanagar 4th Block,,Neighbourhood shopping complex and food street.
+Orion Mall,shop,13.011,77.555,4.4,"Rajajinagar, Bengaluru",,Large mall on Dr Rajkumar Road.
+Phoenix Marketcity,shop,12.9959,77.6964,4.5,"Whitefield, Bengaluru",,Eastern mall with a wide retail mix.
+Cubbon Park,other,12.9763,77.5929,4.8,"Kasturba Road, Bengaluru",,Central public park and lawns.
+Lalbagh Botanical Garden,other,12.9507,77.5848,4.7,"Lalbagh Road, Bengaluru",,Historic botanical garden and glass house.
+Vidhana Soudha,other,12.9796,77.5906,4.6,"Dr Ambedkar Road, Bengaluru",,State legislature building on the northern edge of the park.
+Bengaluru City Railway Station,other,12.9778,77.5695,4.0,"Majestic, Bengaluru",,"Main railway station, also called KSR Bengaluru."
+Kempegowda Bus Station,other,12.9766,77.5722,3.7,"Majestic, Bengaluru",,Intercity and local bus terminal.
+Bangalore Palace,other,13.0038,77.5896,4.4,"Vasanth Nagar, Bengaluru",,Historic palace grounds north of the centre.
+Tipu Sultan's Summer Palace,other,12.9594,77.5736,4.3,"Chamrajpet, Bengaluru",,Wooden palace and small museum.
+ISKCON Temple Rajajinagar,other,13.0097,77.551,4.7,"Rajajinagar, Bengaluru",,Large temple complex west of the city centre.
+MG Road Metro Station,other,12.9756,77.6068,4.2,"MG Road, Bengaluru",,Central metro stop for the shopping district.
+Indiranagar Metro Station,other,12.9783,77.6386,4.2,"CMH Road, Indiranagar",,Metro access for the eastern neighbourhood.
+Jayanagar Metro Station,other,12.9295,77.5808,4.1,"Jayanagar, Bengaluru",,Green line stop for south Bengaluru.
+National Gallery of Modern Art,other,12.9896,77.5882,4.4,"Palace Road, Bengaluru",,Public gallery facing the palace grounds.

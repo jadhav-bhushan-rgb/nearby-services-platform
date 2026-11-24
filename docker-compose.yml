@@ -1,0 +1,65 @@
+services:
+  postgres:
+    image: postgis/postgis:16-3.4
+    environment:
+      POSTGRES_DB: nearby
+      POSTGRES_USER: nearby
+      POSTGRES_PASSWORD: nearby
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U nearby -d nearby"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+
+  backend:
+    build: ./backend
+    ports:
+      - "8000:8000"
+    environment:
+      ENV: development
+      DEBUG: "false"
+      SECRET_KEY: dev-only-change-this-secret-key
+      DATABASE_URL: postgresql+psycopg2://nearby:nearby@postgres:5432/nearby
+      REDIS_URL: redis://redis:6379/0
+      CORS_ORIGINS: http://localhost:3000
+      TRUST_PROXY_HEADERS: "false"
+      ADMIN_EMAIL: admin@nearby.local
+      ADMIN_PASSWORD: ChangeMe123!
+      ADMIN_NAME: Platform Admin
+      SEED_SAMPLE_DATA: "true"
+      RATE_LIMIT_PUBLIC_PER_MIN: "60"
+      RATE_LIMIT_SEARCH_PER_MIN: "30"
+      RATE_LIMIT_LOGIN_PER_MIN: "5"
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "3000:3000"
+    environment:
+      API_INTERNAL_URL: http://backend:8000
+      HOSTNAME: 0.0.0.0
+      PORT: "3000"
+    depends_on:
+      - backend
+
+volumes:
+  pgdata:

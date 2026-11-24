@@ -1,0 +1,398 @@
+[
+  {
+    "name": "Victoria Hospital",
+    "category": "hospital",
+    "latitude": 12.9634,
+    "longitude": 77.5738,
+    "rating": 3.9,
+    "metadata": {
+      "address": "Fort, Bengaluru",
+      "phone": "+91-80-4000-1101",
+      "description": "Large public hospital near the City Market."
+    }
+  },
+  {
+    "name": "Bowring and Lady Curzon Hospital",
+    "category": "hospital",
+    "latitude": 12.9815,
+    "longitude": 77.6046,
+    "rating": 3.8,
+    "metadata": {
+      "address": "Shivaji Nagar, Bengaluru",
+      "phone": "+91-80-4000-1102",
+      "description": "Government hospital north of the central business district."
+    }
+  },
+  {
+    "name": "Mallya Hospital",
+    "category": "hospital",
+    "latitude": 12.9686,
+    "longitude": 77.5954,
+    "rating": 4.1,
+    "metadata": {
+      "address": "Vittal Mallya Road, Bengaluru",
+      "phone": "+91-80-4000-1103",
+      "description": "Private hospital beside Cubbon Park."
+    }
+  },
+  {
+    "name": "St. John's Medical College Hospital",
+    "category": "hospital",
+    "latitude": 12.9278,
+    "longitude": 77.6204,
+    "rating": 4.6,
+    "metadata": {
+      "address": "Koramangala, Bengaluru",
+      "phone": "+91-80-4000-1104",
+      "description": "Teaching hospital on Sarjapur Road."
+    }
+  },
+  {
+    "name": "Apollo Hospital Bannerghatta",
+    "category": "hospital",
+    "latitude": 12.8968,
+    "longitude": 77.5988,
+    "rating": 4.5,
+    "metadata": {
+      "address": "Bannerghatta Road, Bengaluru",
+      "phone": "+91-80-4000-1105",
+      "description": "Multi-speciality campus on the southern corridor."
+    }
+  },
+  {
+    "name": "Fortis Hospital Cunningham",
+    "category": "hospital",
+    "latitude": 12.9886,
+    "longitude": 77.5942,
+    "rating": 4.3,
+    "metadata": {
+      "address": "Cunningham Road, Bengaluru",
+      "phone": "+91-80-4000-1106",
+      "description": "Private hospital north of the railway station."
+    }
+  },
+  {
+    "name": "Cloudnine Hospital Jayanagar",
+    "category": "hospital",
+    "latitude": 12.9304,
+    "longitude": 77.5832,
+    "rating": 4.4,
+    "metadata": {
+      "address": "Jayanagar 3rd Block, Bengaluru",
+      "phone": "+91-80-4000-1107",
+      "description": "Maternity and paediatric hospital."
+    }
+  },
+  {
+    "name": "Manipal Hospital HAL",
+    "category": "hospital",
+    "latitude": 12.9584,
+    "longitude": 77.6488,
+    "rating": 4.4,
+    "metadata": {
+      "address": "Old Airport Road, Bengaluru",
+      "phone": "+91-80-4000-1108",
+      "description": "Large private hospital toward the east."
+    }
+  },
+  {
+    "name": "HDFC ATM MG Road",
+    "category": "atm",
+    "latitude": 12.9754,
+    "longitude": 77.6067,
+    "metadata": {
+      "address": "MG Road, Bengaluru",
+      "description": "24-hour ATM beside the metro station."
+    }
+  },
+  {
+    "name": "SBI ATM Majestic",
+    "category": "atm",
+    "latitude": 12.9768,
+    "longitude": 77.5714,
+    "metadata": {
+      "address": "Kempegowda Bus Station, Bengaluru",
+      "description": "ATM at the city bus terminal."
+    }
+  },
+  {
+    "name": "ICICI ATM Indiranagar",
+    "category": "atm",
+    "latitude": 12.9784,
+    "longitude": 77.6408,
+    "metadata": {
+      "address": "100 Feet Road, Indiranagar",
+      "description": "ATM on the main shopping stretch."
+    }
+  },
+  {
+    "name": "Axis ATM Koramangala",
+    "category": "atm",
+    "latitude": 12.9349,
+    "longitude": 77.6242,
+    "metadata": {
+      "address": "5th Block, Koramangala",
+      "description": "ATM near the Forum Mall junction."
+    }
+  },
+  {
+    "name": "Kotak ATM HSR Layout",
+    "category": "atm",
+    "latitude": 12.9121,
+    "longitude": 77.6446,
+    "metadata": {
+      "address": "27th Main, HSR Layout",
+      "description": "Neighbourhood ATM in HSR."
+    }
+  },
+  {
+    "name": "SBI ATM Jayanagar",
+    "category": "atm",
+    "latitude": 12.9302,
+    "longitude": 77.5836,
+    "metadata": {
+      "address": "4th Block, Jayanagar",
+      "description": "ATM beside the shopping complex."
+    }
+  },
+  {
+    "name": "ICICI ATM Malleshwaram",
+    "category": "atm",
+    "latitude": 13.0034,
+    "longitude": 77.5708,
+    "metadata": {
+      "address": "Sampige Road, Malleshwaram",
+      "description": "ATM on the market road."
+    }
+  },
+  {
+    "name": "HDFC ATM Whitefield",
+    "category": "atm",
+    "latitude": 12.9698,
+    "longitude": 77.7499,
+    "metadata": {
+      "address": "Whitefield Main Road",
+      "description": "ATM in the eastern tech corridor."
+    }
+  },
+  {
+    "name": "UB City",
+    "category": "shop",
+    "latitude": 12.9716,
+    "longitude": 77.5958,
+    "rating": 4.6,
+    "metadata": {
+      "address": "Vittal Mallya Road, Bengaluru",
+      "description": "Luxury retail and dining courtyard."
+    }
+  },
+  {
+    "name": "Garuda Mall",
+    "category": "shop",
+    "latitude": 12.9702,
+    "longitude": 77.6096,
+    "rating": 4.3,
+    "metadata": {
+      "address": "Magrath Road, Bengaluru",
+      "description": "Central mall just off Brigade Road."
+    }
+  },
+  {
+    "name": "Commercial Street",
+    "category": "shop",
+    "latitude": 12.9823,
+    "longitude": 77.6081,
+    "rating": 4.2,
+    "metadata": {
+      "address": "Shivaji Nagar, Bengaluru",
+      "description": "Open shopping street for clothes and accessories."
+    }
+  },
+  {
+    "name": "Forum Mall Koramangala",
+    "category": "shop",
+    "latitude": 12.9345,
+    "longitude": 77.6112,
+    "rating": 4.5,
+    "metadata": {
+      "address": "Hosur Road, Koramangala",
+      "description": "Mall at the southern end of Koramangala."
+    }
+  },
+  {
+    "name": "Chickpet Market",
+    "category": "shop",
+    "latitude": 12.9688,
+    "longitude": 77.5776,
+    "rating": 4.0,
+    "metadata": {
+      "address": "Chickpet, Bengaluru",
+      "description": "Historic textile and wholesale market."
+    }
+  },
+  {
+    "name": "Jayanagar 4th Block Complex",
+    "category": "shop",
+    "latitude": 12.9298,
+    "longitude": 77.5824,
+    "rating": 4.1,
+    "metadata": {
+      "address": "Jayanagar 4th Block",
+      "description": "Neighbourhood shopping complex and food street."
+    }
+  },
+  {
+    "name": "Orion Mall",
+    "category": "shop",
+    "latitude": 13.011,
+    "longitude": 77.555,
+    "rating": 4.4,
+    "metadata": {
+      "address": "Rajajinagar, Bengaluru",
+      "description": "Large mall on Dr Rajkumar Road."
+    }
+  },
+  {
+    "name": "Phoenix Marketcity",
+    "category": "shop",
+    "latitude": 12.9959,
+    "longitude": 77.6964,
+    "rating": 4.5,
+    "metadata": {
+      "address": "Whitefield, Bengaluru",
+      "description": "Eastern mall with a wide retail mix."
+    }
+  },
+  {
+    "name": "Cubbon Park",
+    "category": "other",
+    "latitude": 12.9763,
+    "longitude": 77.5929,
+    "rating": 4.8,
+    "metadata": {
+      "address": "Kasturba Road, Bengaluru",
+      "description": "Central public park and lawns."
+    }
+  },
+  {
+    "name": "Lalbagh Botanical Garden",
+    "category": "other",
+    "latitude": 12.9507,
+    "longitude": 77.5848,
+    "rating": 4.7,
+    "metadata": {
+      "address": "Lalbagh Road, Bengaluru",
+      "description": "Historic botanical garden and glass house."
+    }
+  },
+  {
+    "name": "Vidhana Soudha",
+    "category": "other",
+    "latitude": 12.9796,
+    "longitude": 77.5906,
+    "rating": 4.6,
+    "metadata": {
+      "address": "Dr Ambedkar Road, Bengaluru",
+      "description": "State legislature building on the northern edge of the park."
+    }
+  },
+  {
+    "name": "Bengaluru City Railway Station",
+    "category": "other",
+    "latitude": 12.9778,
+    "longitude": 77.5695,
+    "rating": 4.0,
+    "metadata": {
+      "address": "Majestic, Bengaluru",
+      "description": "Main railway station, also called KSR Bengaluru."
+    }
+  },
+  {
+    "name": "Kempegowda Bus Station",
+    "category": "other",
+    "latitude": 12.9766,
+    "longitude": 77.5722,
+    "rating": 3.7,
+    "metadata": {
+      "address": "Majestic, Bengaluru",
+      "description": "Intercity and local bus terminal."
+    }
+  },
+  {
+    "name": "Bangalore Palace",
+    "category": "other",
+    "latitude": 13.0038,
+    "longitude": 77.5896,
+    "rating": 4.4,
+    "metadata": {
+      "address": "Vasanth Nagar, Bengaluru",
+      "description": "Historic palace grounds north of the centre."
+    }
+  },
+  {
+    "name": "Tipu Sultan's Summer Palace",
+    "category": "other",
+    "latitude": 12.9594,
+    "longitude": 77.5736,
+    "rating": 4.3,
+    "metadata": {
+      "address": "Chamrajpet, Bengaluru",
+      "description": "Wooden palace and small museum."
+    }
+  },
+  {
+    "name": "ISKCON Temple Rajajinagar",
+    "category": "other",
+    "latitude": 13.0097,
+    "longitude": 77.551,
+    "rating": 4.7,
+    "metadata": {
+      "address": "Rajajinagar, Bengaluru",
+      "description": "Large temple complex west of the city centre."
+    }
+  },
+  {
+    "name": "MG Road Metro Station",
+    "category": "other",
+    "latitude": 12.9756,
+    "longitude": 77.6068,
+    "rating": 4.2,
+    "metadata": {
+      "address": "MG Road, Bengaluru",
+      "description": "Central metro stop for the shopping district."
+    }
+  },
+  {
+    "name": "Indiranagar Metro Station",
+    "category": "other",
+    "latitude": 12.9783,
+    "longitude": 77.6386,
+    "rating": 4.2,
+    "metadata": {
+      "address": "CMH Road, Indiranagar",
+      "description": "Metro access for the eastern neighbourhood."
+    }
+  },
+  {
+    "name": "Jayanagar Metro Station",
+    "category": "other",
+    "latitude": 12.9295,
+    "longitude": 77.5808,
+    "rating": 4.1,
+    "metadata": {
+      "address": "Jayanagar, Bengaluru",
+      "description": "Green line stop for south Bengaluru."
+    }
+  },
+  {
+    "name": "National Gallery of Modern Art",
+    "category": "other",
+    "latitude": 12.9896,
+    "longitude": 77.5882,
+    "rating": 4.4,
+    "metadata": {
+      "address": "Palace Road, Bengaluru",
+      "description": "Public gallery facing the palace grounds."
+    }
+  }
+]

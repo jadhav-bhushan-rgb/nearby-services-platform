@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+html,
+body {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  background: #f4efe6;
+  color: #1c1915;
+  font-family: "Avenir Next", "Segoe UI", sans-serif;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+  background: #e7e1d6;
+  font-family: inherit;
+}
+
+.service-pin {
+  background: transparent;
+  border: none;
+}
+
+.service-pin span {
+  display: block;
+  border-radius: 999px;
+  border: 2px solid white;
+  box-shadow: 0 4px 12px rgba(28, 25, 21, 0.35);
+}
+
+.leaflet-popup-content-wrapper {
+  border-radius: 16px;
+  background: #fbf7f0;
+  color: #1c1915;
+  box-shadow: 0 12px 40px rgba(28, 25, 21, 0.18);
+}
+
+.leaflet-popup-content {
+  margin: 12px 14px;
+}
+
+.leaflet-popup-tip {
+  background: #fbf7f0;
+}
+
+.leaflet-control-attribution {
+  background: rgba(251, 247, 240, 0.85) !important;
+  font-size: 11px;
+}
